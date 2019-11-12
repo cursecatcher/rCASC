@@ -1,2 +1,2 @@
-Docker skeleton lucastormreig/skeletonperm
-Function to  be modified is permutationClustering, changing the dockername.
+Docker skeleton lucastormreig/skeletonperm .
+The Function to  be modified is permutationClustering, changing the dockername.
